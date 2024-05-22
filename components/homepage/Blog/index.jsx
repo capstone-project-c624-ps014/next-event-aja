@@ -18,20 +18,23 @@ export default function Blog() {
           <div className="w-full flex gap-3">
             <BlogCard
               image="/homepage/event-services.png"
-              title="Event"
-              text="Kami membantu Anda merencanakan setiap detail event dari awal hingga akhir, memastikan semua kebutuhan terpenuhi dengan sempurna."
-              href="/"
-            />
-            <BlogCard
-              image="/homepage/event-organizer-services.png"
-              title="Event Organizer"
-              text="Dari logistik hingga koordinasi di hari-H, kami mengelola semua aspek agar event berjalan lancar dan sukses."
+              title="10 Tips Efektif dalam Manajemen Event yang Sukses"
+              text="Dalam industri event, manajemen yang efektif adalah kunci keberhasilan. Dengan mempertimbangkan berbagai aspek mulai dari perencanaan hingga eksekusi, berikut adalah 10 tips yang dapat membantu Anda mengelola event Anda dengan sukses."
+              createdAt="Admin | May 17, 2024"
               href="/"
             />
             <BlogCard
               image="/homepage/sponsor-services.png"
-              title="Sponsor"
-              text="Kami menghubungkan Anda dengan sponsor yang tepat, membantu membangun kemitraan yang saling menguntungkan."
+              title="10 Tips Efektif dalam Manajemen Event yang Sukses"
+              text="Dalam industri event, manajemen yang efektif adalah kunci keberhasilan. Dengan mempertimbangkan berbagai aspek mulai dari perencanaan hingga eksekusi, berikut adalah 10 tips yang dapat membantu Anda mengelola event Anda dengan sukses."
+              createdAt="Admin | May 17, 2024"
+              href="/"
+            />
+            <BlogCard
+              image="/homepage/sponsor-services.png"
+              title="10 Tips Efektif dalam Manajemen Event yang Sukses"
+              text="Dalam industri event, manajemen yang efektif adalah kunci keberhasilan. Dengan mempertimbangkan berbagai aspek mulai dari perencanaan hingga eksekusi, berikut adalah 10 tips yang dapat membantu Anda mengelola event Anda dengan sukses."
+              createdAt="Admin | May 17, 2024"
               href="/"
             />
           </div>
