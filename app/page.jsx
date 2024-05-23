@@ -5,6 +5,7 @@ import HowTo from '@/components/homepage/howto';
 import Testimoni from '@/components/homepage/testimoni';
 import Blog from '@/components/homepage/Blog';
 import Question from '@/components/homepage/question';
+import Subscribetion from '@/components/homepage/subscribetion/Index';
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Testimoni />
       <Blog />
       <Question />
+      <Subscribetion />
     </>
   );
 }
