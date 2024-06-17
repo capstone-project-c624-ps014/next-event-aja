@@ -50,7 +50,6 @@ This project was created using the following technologies.
 
 - [Node JS](https://nodejs.org/en/) -A runtime environment to help build fast server applications using JS
 - [Express JS](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
-- [MySql12](https://www.npmjs.com/package/mysql2) - For authentication
 - [Cors](https://www.npmjs.com/package/cors) - Provides a Connect/Express middleware
 - [Bcrypt JS](https://www.npmjs.com/package/bcryptjs) - For data encryption
 - [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
@@ -59,12 +58,10 @@ This project was created using the following technologies.
 - [Cookie Parser](https://www.npmjs.com/package/cookie-parser) - A middleware for web frameworks
 - [Sequelize](https://www.npmjs.com/package/sequelize) - An Object-Relational Mapping (ORM) for Node.js that makes it easy to access relational databases such as MySQL, PostgreSQL, and SQLite using the JavaScript programming language.
 - [Crypto](https://www.npmjs.com/package/argon2) - A password-hashing function that summarizes the state of the art in the design of memory-hard functions and can be used to hash passwords for credential storage, key derivation, or other applications.
-- [Google-cloud/storage](https://www.npmjs.com/package/@google-cloud/storage) - To interact with the Google Cloud Storage object storage service.
 - [Connect Session Sequelize](https://www.npmjs.com/package/connect-session-sequelize) - Implement authentication for users with site applications.
 - [Nodemailer](https://www.npmjs.com/package/nodemailer) - To send an email from a Node.js application.
 - [Qrcode terminal](https://www.npmjs.com/package/qrcode-terminal) - To create and display QR codes in the terminal or console using Node.js.
 - [Sqlite](https://www.npmjs.com/package/sqlite) - To relational databases that are serverless, self-contained, and file-based.
-- [Whatsapp-web.js](https://wwebjs.dev/) - For bots or automated scripts to send messages OTP.
 
 ## Project Structure
 ```bash
