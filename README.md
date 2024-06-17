@@ -1,6 +1,6 @@
 <H1 align ="center" >Event Aja</h1>
-<h5  align ="center"> 
-Increasing Quality Human Resources</h5>
+<h3  align ="center"> 
+Increasing Quality Human Resources</h3>
 
 ![01](https://github.com/capstone-project-c624-ps014/.github/assets/111676859/38f18b46-e498-443d-8fb0-fde29d4694bd)
 
