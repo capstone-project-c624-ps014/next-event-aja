@@ -20,17 +20,17 @@ In order to run this project locally, simply fork and clone the repository or do
 - Open the project in your prefered code editor.
 - Go to terminal -> New terminal (If you are using VS code)
 
-In the first terminal
+In the terminal
 
 ```
-$ cd Afiliya-Backend
-$ yarn install
-$ yarn run dev
+$ cd next-event-aja
+$ npm install
+$ npm run dev
 ```
 
 In the second terminal
 
-- Create your MySQL database, which you will use as your database
+- Create your supabase database, which you will use as your database
 - Supply the following credentials
 
 ```
