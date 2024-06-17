@@ -5,7 +5,7 @@ Increasing Quality Human Resources</h5>
 ![01](https://github.com/capstone-project-c624-ps014/.github/assets/111676859/38f18b46-e498-443d-8fb0-fde29d4694bd)
 
 ## Project Description
-Event Aja is a platform for connecting event owners, EOs and sponsors through the Event Aja platform, enabling them to collaborate effectively and achieve common goals.
+Event Aja is a platform that provides integrated solutions to facilitate collaboration between event owners, Event Organizers (EO), and sponsors in order to make various types of events a success. This platform helps event owners to find EOs and sponsors that suit their needs, while EOs and sponsors get the opportunity to gain income, branding and exposure through the selected event.
 
   * [Configuration and Setup](#configuration-and-setup)
   * [Technologies used](#technologies-used)
@@ -51,8 +51,6 @@ This project was created using the following technologies.
 - [Node JS](https://nodejs.org/en/) -A runtime environment to help build fast server applications using JS
 - [Express JS](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
 - [Cors](https://www.npmjs.com/package/cors) - Provides a Connect/Express middleware
-- [Bcrypt JS](https://www.npmjs.com/package/bcryptjs) - For data encryption
-- [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
 - [Nodemailer](https://www.npmjs.com/package/nodemailer) - To send an email from a Node.js application.
 
 ## Project Structure
