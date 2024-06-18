@@ -5,16 +5,17 @@ Increasing Quality Human Resources</h3>
 ![01](https://github.com/capstone-project-c624-ps014/.github/assets/111676859/38f18b46-e498-443d-8fb0-fde29d4694bd)
 
 ## Project Description
+
 Event Aja is a platform that provides integrated solutions to facilitate collaboration between event owners, Event Organizers (EO), and sponsors in order to make various types of events a success. This platform helps event owners to find EOs and sponsors that suit their needs, while EOs and sponsors get the opportunity to gain income, branding and exposure through the selected event.
 
-  * [Configuration and Setup](#configuration-and-setup)
-  * [Technologies used](#technologies-used)
-  * [Project Structure](#project-structure)
-  * [Database Sturucture](#database-structure)
-  * [Meet Our Team](#meet-our-team)
-  * [License](#license)
+- [Configuration and Setup](#configuration-and-setup)
+- [Technologies used](#technologies-used)
+- [Database Sturucture](#database-structure)
+- [Meet Our Team](#meet-our-team)
+- [License](#license)
 
 ## Configuration and Setup
+
 In order to run this project locally, simply fork and clone the repository main or download main as zip and unzip on your machine.
 
 - Open the project in your prefered code editor.
@@ -42,69 +43,30 @@ AUTH_SECRET="<YOUR_AUTH_SECRET>"
 # Token Configuration
 NEXTAUTH_SECRET="<YOUR_NEXTAUTH_SECRET>"
 
+# Supabase Configuration
+SUPABASE_URL="<YOUR_SUPABASE_URL>"
+SUPABASE_KEY="<YOUR_SUPABASE_KEY>"
+
 ```
 
 ## Technologies used
 
 This project was created using the following technologies.
 
-- [Node JS](https://nodejs.org/en/) -A runtime environment to help build fast server applications using JS
-- [Express JS](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
-- [Cors](https://www.npmjs.com/package/cors) - Provides a Connect/Express middleware
-- [Nodemailer](https://www.npmjs.com/package/nodemailer) - To send an email from a Node.js application.
+- [Next JS](https://nextjs.org/) - A React framework for building fast and scalable server-rendered applications.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - A versatile programming language used for web development.
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.
+- [Daisy UI](https://daisyui.com/) - A set of customizable UI components built on top of Tailwind CSS.
+- [React Apexcharts](https://www.npmjs.com/package/react-apexcharts) -  A charting library for React based on ApexCharts.js.
+- [Html React Parser](https://www.npmjs.com/package/html-react-parser) - A utility to parse HTML strings into React components.
+- [Eslint](https://eslint.org/) - A tool for identifying and fixing problems in JavaScript code.
+- [Node JS](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine for server-side development.
+- [Supabase](https://supabase.com/) -An open-source Firebase alternative for building backends.
 
-## Project Structure
-```bash
-├── eslintrc.json
-├── package.json
-├── README.md
-├── SECURITY.md
-├── src
-│   ├── config
-│       └── Database.js
-│   ├── controllers
-│       ├── auth
-│           └── GenerateOTPTelephoneControllers.js
-│       ├── AddressControllers.js
-│       ├── OrderControllers.js
-│       ├── ProductControllers.js
-│       ├── ShopControllers.js
-│       ├── UserControllers.js
-│       ├── others file ...
-│   ├── db
-│       └── db_afiliya.sql
-│   ├── middlewares
-│       └── AuthMiddleware.js
-│   ├── models
-│       ├── AddressesModel.js
-│       ├── GenerateOTPTelephoneModel.js
-│       ├── OrdersModel.js
-│       ├── ProductsModel.js
-│       ├── ShopsModel.js
-│       ├── UsersModel.js
-│       ├── others file ...
-│   ├── routes
-│       ├── AddressRoute.js
-│       ├── OrderRoute.js
-│       ├── ProductRoute.js
-│       ├── ProductsModel.js
-│       ├── ShopRoute.js
-│       ├── UserRoute.js
-│       ├── others file ...
-│   ├── utils
-│       ├── CreateToken.js
-│       ├── GenerateOTP.js
-│       ├── HashData.js
-│       ├── MachineLearning.js
-│       ├── SendMessageEmail.js
-│       ├── SendMessageTelephone.js
-│       ├── others file ...
-│   └── server.js
-```
 
-##  Database Structure
+## Database Structure
 
-![img-database-structure](https://github.com/Capstone-Project-CH2-PS070/Afiliya-Backend/assets/111676859/ee51a1ef-8a71-47c0-b3d1-591606d6e3e6)
+![Untitled](https://github.com/capstone-project-c624-ps014/next-event-aja/assets/111676859/0e036b7d-3b17-4a88-b395-4a6eb9364477)
 
 ## Meet Our Team
 
